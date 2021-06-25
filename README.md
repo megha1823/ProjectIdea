@@ -1,1 +1,2 @@
 # ProjectIdea
+This project aims to provide a precise solution and an innovative design to implement security measures in any organization where it will be implemented. The present systems of security which exist are either manual in nature or not automated to yield the degree of efficiency which it could. Our system easily detects faces and recognizes them, when the recognition occurs it automatically updates the database with the Name, ID, gender and time at which the face is recognized. However, if the face is not recognized an SMTP notification is immediately generated.
